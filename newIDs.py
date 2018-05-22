@@ -17,7 +17,7 @@
 # argparse to be able to input fasta file and names file with -f and -n arguments 
 # (I get confused which goes first when using just sys.argv so the name of the tab delimited file is fixed for the moment)
 
-# test script
+# test script formally
 
 # make it a function that can be used as part of other scripts
 
